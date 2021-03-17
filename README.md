@@ -1,2 +1,3 @@
-# Grupo_pgy3121-012v
+# Grupo_PGY3121-012v
+##Programacion Web
 Proyecto Asignatura Programacion Web
